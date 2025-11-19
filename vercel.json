@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd sales-dashboard && npm install && npm run build",
+  "outputDirectory": "sales-dashboard/dist",
+  "devCommand": "cd sales-dashboard && npm run dev",
+  "installCommand": "cd sales-dashboard && npm install"
+}
+
